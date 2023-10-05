@@ -1,3 +1,9 @@
 h1{
     color: red;
 }
+#just{
+    background-color: greenyellow;
+    padding:10px;
+    border-radius: 5px;
+    margin:5px;
+}
